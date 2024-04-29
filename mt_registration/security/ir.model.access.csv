@@ -1,0 +1,4 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_smspoh_configuration,name_smspoh_configuration,model_smspoh_configuration,,1,1,1,1
+access_send_sms,name_send_sms,model_send_sms,,1,1,1,1
+access_sms_log,name_sms_log,model_sms_log,,1,1,1,1

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <menuitem id="menu_send_sms" name="Send SMS" action="send_sms_view_act" sequence="1" web_icon="mt_registration,static/description/logo.png"/>
+    <menuitem id="menu_sms_log" name="SMS Logs" action="sms_log_view_act" sequence="2" parent="menu_send_sms"/>
+    <menuitem id="menu_smspoh_configuration" name="Configuration" action="smspoh_config_view_act" sequence="3" parent="menu_send_sms"/>
+
+</odoo>
